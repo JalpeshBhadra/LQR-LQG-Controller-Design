@@ -1,3 +1,4 @@
-# LQR-LQG-Controller-Design
+### Linear Quadratic Regulator and Linear Quadratic Gaussian Controller for 2 link Planar Robotic Arm. 
 
-Designed Controller for 2 link plannar Robotic Arm. 
+
+ 
